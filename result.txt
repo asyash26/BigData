@@ -1,0 +1,2 @@
+Map reduce result: Mean: 152.7206871868289; Variance: 57672.84569843353 
+Standard way result: Mean: 152.7206871868289; Variance: 57672.84569843359
